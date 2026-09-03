@@ -8,7 +8,6 @@ git --version || echo "git NO instalado"
 python3 --version || echo "python3 NO instalado"
 docker --version || echo "docker NO instalado"
 docker compose version || echo "compose NO instalado"
-GFPI-F-135 V04 | Página 11
 ollama --version || echo "ollama NO instalado"
 echo "=== SERVICIOS ==="
 systemctl is-active docker || echo "docker inactivo"
